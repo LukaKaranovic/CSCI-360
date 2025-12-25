@@ -1,0 +1,9 @@
+assignment3 Make Output for STUDENT fall2025/csci360/karanovl
+
+gcc -Wall -ggdb -c -I include src/simulator.c -o build/simulator.o
+gcc -Wall -ggdb -c -I include src/ta.c -o build/ta.o
+gcc -Wall -ggdb -c -I include src/student.c -o build/student.o
+gcc -Wall -ggdb -c -I include src/queue.c -o build/queue.o
+gcc  -ggdb -c -I include src/logger.c -o build/logger.o
+gcc -Wall -ggdb build/simulator.o build/ta.o build/student.o \
+	build/queue.o build/logger.o -o bin/simulator -lpthread

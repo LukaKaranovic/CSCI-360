@@ -1,0 +1,42 @@
+# CSCI 360 Assignmment 1 - UNIX Shell
+
+This application is a C implementation of the skeleton of a UNIX shell. It is supposed to work functionally the same as a UNIX shell, meaning the user will type commands into the terminal and their outputs will be displayed to them in the terminal.
+
+It supports all UNIX system calls, and certain special commands / actions such as: 'history', '!!', 'exit', single input and output redirect commands, and single pipe commands.
+
+## Technologies
+
+This application has been developed using the C programming language. This application can be built and run on a system with a GCC compiler. Unix make utility is necessary to build as well as recommended to run the application. 
+
+This application has been tested on Debian 12 (Linux) with GCC 12.2.0.
+
+## Build and Installation
+
+To build this application from the source code enter following command from the root directory of this application.
+
+	>make
+
+To clean the files from the previous build of the application enter following command from the root directory of the application.
+
+	>make clean
+
+There is no installation script to install this application automatically. However, you can manually install this application by copying the executable file (any of the sort files) from the 'bin' subdirectory of this application to a system directory, for example, '/usr/local/bin', that is listed in the '$PATH' environment variable of your system. You need system privileges in order to copy the executable into your target directory.
+
+## Usage
+
+You can run the CSCI 360 UNIX Shell application by entering the following command.
+
+	>make run
+
+## Contributors
+
+Developer: Luka Karanovic, 665778833, CSCI 360, VIU.
+Specification: Dr. Humayun Kabir, Instructor, CSCI 360, Fall 2025, VIU.
+
+## License
+
+This is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this software. If not, see <https://www.gnu.org/licenses/>. Terms and conditions or the types of licenses granted to use this application go here.

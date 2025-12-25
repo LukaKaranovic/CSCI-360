@@ -1,0 +1,25 @@
+Simulation statistics ................
+Strudent 1 getting help following times:
+5
+Strudent 2 getting help following times:
+5
+Strudent 3 getting help following times:
+5
+Strudent 4 getting help following times:
+5
+Strudent 5 getting help following times:
+5
+Strudent 6 getting help following times:
+5
+Strudent 7 getting help following times:
+5
+Strudent 8 getting help following times:
+5
+Strudent 9 getting help following times:
+5
+Strudent 10 getting help following times:
+5
+TA 1 helping students following times:
+27
+TA2 helping students following times:
+23

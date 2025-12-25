@@ -1,0 +1,31 @@
+assignment1 FEEDBACKS for STUDENT fall2025/csci360/karanovl
+
+Marks: 100
+
+_________________________________________________________________________________________________
+
+Compiled: successfully.
+
+	Please, see the build outputs of your submitted code in assignment1_MAKE.txt file.
+
+
+Run: successfully.
+
+	Please, see the execution outputs of your submitted code in assignment1_RUN_RESULTS.txt file.
+
+
+Results: Correct outputs.
+
+_________________________________________________________________________________________________
+
+
+README: Completed.
+
+File Comments: Completed.
+
+Function Comments: Completed and followed the standard format.
+
+Instructor texts: Removed from the source codes.
+
+_________________________________________________________________________________________________
+

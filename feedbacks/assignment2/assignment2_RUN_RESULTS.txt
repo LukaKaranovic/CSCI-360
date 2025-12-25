@@ -1,0 +1,235 @@
+assignment2 RUN RESULTS for STUDENT fall2025/csci360/karanovl
+bin/fcfs resource/tasks.txt
+[T1] [6] [4] [20]
+[T2] [4] [3] [25]
+[T3] [0] [3] [25]
+[T4] [6] [5] [15]
+[T5] [7] [5] [20]
+[T6] [2] [1] [10]
+[T7] [2] [3] [30]
+[T8] [9] [10] [25]
+[T9] [1] [9] [40]
+[T10] [3] [8] [25]
+[T11] [5] [3] [50]
+[T12] [1] [4] [35]
+[T13] [0] [3] [10]
+[T14] [8] [5] [20]
+[T15] [7] [1] [30]
+Running task = [T3] [0] [3] [25] for 25 units.
+Running task = [T13] [0] [3] [10] for 10 units.
+Running task = [T9] [1] [9] [40] for 40 units.
+Running task = [T12] [1] [4] [35] for 35 units.
+Running task = [T6] [2] [1] [10] for 10 units.
+Running task = [T7] [2] [3] [30] for 30 units.
+Running task = [T10] [3] [8] [25] for 25 units.
+Running task = [T2] [4] [3] [25] for 25 units.
+Running task = [T11] [5] [3] [50] for 50 units.
+Running task = [T1] [6] [4] [20] for 20 units.
+Running task = [T4] [6] [5] [15] for 15 units.
+Running task = [T5] [7] [5] [20] for 20 units.
+Running task = [T15] [7] [1] [30] for 30 units.
+Running task = [T14] [8] [5] [20] for 20 units.
+Running task = [T8] [9] [10] [25] for 25 units.
+bin/sjf resource/tasks.txt
+[T1] [6] [4] [20]
+[T2] [4] [3] [25]
+[T3] [0] [3] [25]
+[T4] [6] [5] [15]
+[T5] [7] [5] [20]
+[T6] [2] [1] [10]
+[T7] [2] [3] [30]
+[T8] [9] [10] [25]
+[T9] [1] [9] [40]
+[T10] [3] [8] [25]
+[T11] [5] [3] [50]
+[T12] [1] [4] [35]
+[T13] [0] [3] [10]
+[T14] [8] [5] [20]
+[T15] [7] [1] [30]
+Running task = [T6] [2] [1] [10] for 10 units.
+Running task = [T13] [0] [3] [10] for 10 units.
+Running task = [T4] [6] [5] [15] for 15 units.
+Running task = [T1] [6] [4] [20] for 20 units.
+Running task = [T5] [7] [5] [20] for 20 units.
+Running task = [T14] [8] [5] [20] for 20 units.
+Running task = [T2] [4] [3] [25] for 25 units.
+Running task = [T3] [0] [3] [25] for 25 units.
+Running task = [T8] [9] [10] [25] for 25 units.
+Running task = [T10] [3] [8] [25] for 25 units.
+Running task = [T7] [2] [3] [30] for 30 units.
+Running task = [T15] [7] [1] [30] for 30 units.
+Running task = [T12] [1] [4] [35] for 35 units.
+Running task = [T9] [1] [9] [40] for 40 units.
+Running task = [T11] [5] [3] [50] for 50 units.
+bin/priority resource/tasks.txt
+[T1] [6] [4] [20]
+[T2] [4] [3] [25]
+[T3] [0] [3] [25]
+[T4] [6] [5] [15]
+[T5] [7] [5] [20]
+[T6] [2] [1] [10]
+[T7] [2] [3] [30]
+[T8] [9] [10] [25]
+[T9] [1] [9] [40]
+[T10] [3] [8] [25]
+[T11] [5] [3] [50]
+[T12] [1] [4] [35]
+[T13] [0] [3] [10]
+[T14] [8] [5] [20]
+[T15] [7] [1] [30]
+Running task = [T8] [9] [10] [25] for 25 units.
+Running task = [T9] [1] [9] [40] for 40 units.
+Running task = [T10] [3] [8] [25] for 25 units.
+Running task = [T4] [6] [5] [15] for 15 units.
+Running task = [T5] [7] [5] [20] for 20 units.
+Running task = [T14] [8] [5] [20] for 20 units.
+Running task = [T1] [6] [4] [20] for 20 units.
+Running task = [T12] [1] [4] [35] for 35 units.
+Running task = [T2] [4] [3] [25] for 25 units.
+Running task = [T3] [0] [3] [25] for 25 units.
+Running task = [T7] [2] [3] [30] for 30 units.
+Running task = [T11] [5] [3] [50] for 50 units.
+Running task = [T13] [0] [3] [10] for 10 units.
+Running task = [T6] [2] [1] [10] for 10 units.
+Running task = [T15] [7] [1] [30] for 30 units.
+bin/rr resource/tasks.txt
+[T1] [6] [4] [20]
+[T2] [4] [3] [25]
+[T3] [0] [3] [25]
+[T4] [6] [5] [15]
+[T5] [7] [5] [20]
+[T6] [2] [1] [10]
+[T7] [2] [3] [30]
+[T8] [9] [10] [25]
+[T9] [1] [9] [40]
+[T10] [3] [8] [25]
+[T11] [5] [3] [50]
+[T12] [1] [4] [35]
+[T13] [0] [3] [10]
+[T14] [8] [5] [20]
+[T15] [7] [1] [30]
+
+	Round 1
+Running task = [T1] [6] [4] [20] for 10 units.
+Running task = [T2] [4] [3] [25] for 10 units.
+Running task = [T3] [0] [3] [25] for 10 units.
+Running task = [T4] [6] [5] [15] for 10 units.
+Running task = [T5] [7] [5] [20] for 10 units.
+Running task = [T6] [2] [1] [10] for 10 units.
+Running task = [T7] [2] [3] [30] for 10 units.
+Running task = [T8] [9] [10] [25] for 10 units.
+Running task = [T9] [1] [9] [40] for 10 units.
+Running task = [T10] [3] [8] [25] for 10 units.
+Running task = [T11] [5] [3] [50] for 10 units.
+Running task = [T12] [1] [4] [35] for 10 units.
+Running task = [T13] [0] [3] [10] for 10 units.
+Running task = [T14] [8] [5] [20] for 10 units.
+Running task = [T15] [7] [1] [30] for 10 units.
+
+	Round 2
+Running task = [T1] [6] [4] [10] for 10 units.
+Running task = [T2] [4] [3] [15] for 10 units.
+Running task = [T3] [0] [3] [15] for 10 units.
+Running task = [T4] [6] [5] [5] for 5 units.
+Running task = [T5] [7] [5] [10] for 10 units.
+Running task = [T7] [2] [3] [20] for 10 units.
+Running task = [T8] [9] [10] [15] for 10 units.
+Running task = [T9] [1] [9] [30] for 10 units.
+Running task = [T10] [3] [8] [15] for 10 units.
+Running task = [T11] [5] [3] [40] for 10 units.
+Running task = [T12] [1] [4] [25] for 10 units.
+Running task = [T14] [8] [5] [10] for 10 units.
+Running task = [T15] [7] [1] [20] for 10 units.
+
+	Round 3
+Running task = [T2] [4] [3] [5] for 5 units.
+Running task = [T3] [0] [3] [5] for 5 units.
+Running task = [T7] [2] [3] [10] for 10 units.
+Running task = [T8] [9] [10] [5] for 5 units.
+Running task = [T9] [1] [9] [20] for 10 units.
+Running task = [T10] [3] [8] [5] for 5 units.
+Running task = [T11] [5] [3] [30] for 10 units.
+Running task = [T12] [1] [4] [15] for 10 units.
+Running task = [T15] [7] [1] [10] for 10 units.
+
+	Round 4
+Running task = [T9] [1] [9] [10] for 10 units.
+Running task = [T11] [5] [3] [20] for 10 units.
+Running task = [T12] [1] [4] [5] for 5 units.
+
+	Round 5
+Running task = [T11] [5] [3] [10] for 10 units.
+bin/priority_rr resource/tasks.txt
+[T1] [6] [4] [20]
+[T2] [4] [3] [25]
+[T3] [0] [3] [25]
+[T4] [6] [5] [15]
+[T5] [7] [5] [20]
+[T6] [2] [1] [10]
+[T7] [2] [3] [30]
+[T8] [9] [10] [25]
+[T9] [1] [9] [40]
+[T10] [3] [8] [25]
+[T11] [5] [3] [50]
+[T12] [1] [4] [35]
+[T13] [0] [3] [10]
+[T14] [8] [5] [20]
+[T15] [7] [1] [30]
+--------------- Priority level: 10 ---------------
+	Round 1
+Running task = [T8] [9] [10] [25] for 25 units.
+--------------- Priority level: 9 ---------------
+	Round 1
+Running task = [T9] [1] [9] [40] for 40 units.
+--------------- Priority level: 8 ---------------
+	Round 1
+Running task = [T10] [3] [8] [25] for 25 units.
+--------------- Priority level: 5 ---------------
+	Round 1
+Running task = [T4] [6] [5] [15] for 10 units.
+Running task = [T5] [7] [5] [20] for 10 units.
+Running task = [T14] [8] [5] [20] for 10 units.
+	Round 2
+Running task = [T4] [6] [5] [5] for 5 units.
+Running task = [T5] [7] [5] [10] for 10 units.
+Running task = [T14] [8] [5] [10] for 10 units.
+--------------- Priority level: 4 ---------------
+	Round 1
+Running task = [T1] [6] [4] [20] for 10 units.
+Running task = [T12] [1] [4] [35] for 10 units.
+	Round 2
+Running task = [T1] [6] [4] [10] for 10 units.
+Running task = [T12] [1] [4] [25] for 10 units.
+	Round 3
+Running task = [T12] [1] [4] [15] for 15 units.
+--------------- Priority level: 3 ---------------
+	Round 1
+Running task = [T2] [4] [3] [25] for 10 units.
+Running task = [T3] [0] [3] [25] for 10 units.
+Running task = [T7] [2] [3] [30] for 10 units.
+Running task = [T11] [5] [3] [50] for 10 units.
+Running task = [T13] [0] [3] [10] for 10 units.
+	Round 2
+Running task = [T2] [4] [3] [15] for 10 units.
+Running task = [T3] [0] [3] [15] for 10 units.
+Running task = [T7] [2] [3] [20] for 10 units.
+Running task = [T11] [5] [3] [40] for 10 units.
+	Round 3
+Running task = [T2] [4] [3] [5] for 5 units.
+Running task = [T3] [0] [3] [5] for 5 units.
+Running task = [T7] [2] [3] [10] for 10 units.
+Running task = [T11] [5] [3] [30] for 10 units.
+	Round 4
+Running task = [T11] [5] [3] [20] for 20 units.
+--------------- Priority level: 1 ---------------
+	Round 1
+Running task = [T6] [2] [1] [10] for 10 units.
+Running task = [T15] [7] [1] [30] for 10 units.
+	Round 2
+Running task = [T15] [7] [1] [20] for 20 units.
+..........run INVALID
+
+
+..........run-example INVALID
+
+

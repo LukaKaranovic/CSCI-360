@@ -1,0 +1,5 @@
+assignment1 Make Output for STUDENT fall2025/csci360/karanovl
+
+gcc -Wall -c -ggdb -I include -o build/main.o src/main.c
+gcc -Wall -c -ggdb -I include -o build/360shell.o src/360shell.c
+gcc  -ggdb -o bin/360shell build/main.o build/360shell.o

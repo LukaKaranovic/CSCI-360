@@ -1,0 +1,20 @@
+assignment2 Make Output for STUDENT fall2025/csci360/karanovl
+
+gcc -Wall -c -ggdb -I include -o build/scheduler.o src/scheduler.c
+gcc -Wall -c -ggdb -I include -o build/list.o src/list.c
+gcc -Wall -c -ggdb -I include -o build/cpu.o src/cpu.c
+gcc -Wall -c -ggdb -I include -o build/schedule_fcfs.o src/schedule_fcfs.c
+gcc -Wall -ggdb -I include -o bin/fcfs build/scheduler.o \
+	build/schedule_fcfs.o build/list.o build/cpu.o
+gcc -Wall -c -ggdb -I include -o build/schedule_sjf.o src/schedule_sjf.c
+gcc -Wall -ggdb -I include -o bin/sjf build/scheduler.o \
+	build/schedule_sjf.o build/list.o build/cpu.o
+gcc -Wall -c -ggdb -I include -o build/schedule_priority.o src/schedule_priority.c
+gcc -Wall -ggdb -I include -o bin/priority build/scheduler.o \
+	build/schedule_priority.o build/list.o build/cpu.o
+gcc -Wall -c -ggdb -I include -o build/schedule_rr.o src/schedule_rr.c
+gcc -Wall -ggdb -I include -o bin/rr build/scheduler.o \
+	build/schedule_rr.o build/list.o build/cpu.o 
+gcc -Wall -c -ggdb -I include -o build/schedule_priority_rr.o src/schedule_priority_rr.c
+gcc -Wall -ggdb -I include -o bin/priority_rr build/scheduler.o \
+	build/schedule_priority_rr.o build/list.o build/cpu.o 

@@ -1,0 +1,66 @@
+# CSCI 360 Assignment 3 - Sleeping Teaching Assistant.
+
+This application simulates students getting help from TAs to complete their programming assignment.
+
+### Description of simulation:
+
+"Assume Vancouver Island University (VIU) Computer Science (CS) department has Teaching Assistants (TAs) who help undergraduate students with their programming assignments during regular office hours. The TA’s office is rather small and has room for only one desk with a chair and computer for each TA. There are fixed number of chairs in the hallway outside TA office where students can sit and wait if the TAs are currently helping other students. When there are no students currently seeking help, TAs sit at their desk and take a nap. If a student arrives during office hours and finds that the TA is sleeping, the student must awaken the TA and ask for help. If a student arrives and finds the TA currently helping other student, the student will sit on one of the chairs in the hallway and wait. If no chairs in the hallway are available, the student will come back at a later time."
+
+Each TA and student will run as a separate thread. Student threads will alternate between programming for a period of time and seeking help from the TA.
+
+If a student arrives and notices that the TAs are sleeping, the student must notify the TAs using a semaphore. When the TA finishes helping a student, the TA must check (notify the students using a semaphore) to see if there are students waiting for help in the hallway. If so, the TA must help each of these students in turn. If no students are present, the TA may return to napping. 
+
+Students programming, as well as the TA providing help to a student, is simulated by using the sleep() system call for a random period of time on the appropriate thread. 
+
+### Goals:
+
+The goals of this assignment are to demonstrate usage of:
+
+- POSIX Threads
+- Mutex Locks
+- Semaphores
+
+to coordinate the activities of the TAs and students.
+
+## Technologies
+
+This application has been developed using the C programming language. This application can be built and run on a system with a GCC compiler. Unix make utility is necessary to build as well as recommended to run the application. 
+
+This application has been tested on Debian 12 (Linux) with GCC 12.2.0.
+
+## Build and Installation
+
+To build this application from the source code enter following command from the root directory of this application.
+
+	>make
+
+To clean the files from the previous build of the application enter following command from the root directory of the application.
+
+	>make clean
+
+There is no installation script to install this application automatically. However, you can manually install this application by copying the executable file (any of the sort files) from the 'bin' subdirectory of this application to a system directory, for example, '/usr/local/bin', that is listed in the '$PATH' environment variable of your system. You need system privileges in order to copy the executable into your target directory.
+
+## Usage
+
+You can run the simulation and get the events log (located in 'resource/logs.txt') by running the following command:
+
+	>make run
+
+You can run the simulation and get the events log (located in 'resource/logs.txt'), along with additional student and TA simulation stats files (located in resouces/ directory) by running the following command:
+
+    >./test.sh
+
+## Contributors
+
+Developer: Luka Karanovic, 665778833, CSCI 360, VIU.
+- All source files and documentation.
+Specification: Dr. Humayun Kabir, Instructor, CSCI 360, Fall 2025, VIU.
+- All header files, assignment specifications, and skeletal design of application.
+
+## License
+
+This is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this software. If not, see <https://www.gnu.org/licenses/>. Terms and conditions or the types of licenses granted to use this application go here.

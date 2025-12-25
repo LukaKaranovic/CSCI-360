@@ -1,0 +1,29 @@
+
+See run results logs in resource/logs.txt file
+
+See student1 logs in resource/student1.txt file
+
+See student2 logs in resource/student2.txt file
+
+See student3 logs in resource/student3.txt file
+
+See student4 logs in resource/student4.txt file
+
+See student5 logs in resource/student5.txt file
+
+See student6 logs in resource/student6.txt file
+
+See student7 logs in resource/student7.txt file
+
+See student8 logs in resource/student8.txt file
+
+See student9 logs in resource/student9.txt file
+
+See student10 logs in resource/student10.txt file
+
+See ta1 logs in resource/ta1.txt file
+
+See ta2 logs in resource/ta2.txt file
+
+See simulation statistics in resource/SIMULATION_STATS.txt file
+

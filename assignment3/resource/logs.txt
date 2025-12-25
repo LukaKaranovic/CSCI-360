@@ -1,0 +1,388 @@
+Tue Nov 18 09:28:23 2025: SLEEPING -  TA 2 is waiting for students
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 2 is programming for 5 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 5 is programming for 1 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 3 is programming for 3 seconds
+Tue Nov 18 09:28:23 2025: SLEEPING -  TA 1 is waiting for students
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 4 is programming for 1 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 1 is programming for 2 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 7 is programming for 1 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 6 is programming for 3 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 8 is programming for 5 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 9 is programming for 4 seconds
+Tue Nov 18 09:28:23 2025: PROGRAMMING -  Student 10 is programming for 3 seconds
+Tue Nov 18 09:28:24 2025: WAITING -  Student 5 takes a seat, Total waiting 0
+Tue Nov 18 09:28:24 2025: GETTING HELP -  Student 5 is getting help
+Tue Nov 18 09:28:24 2025: PROGRAMMING -  Student 5 is programming for 3 seconds
+Tue Nov 18 09:28:24 2025: HELPING -  TA 2 is helping Student 5 for 5 seconds
+Tue Nov 18 09:28:24 2025: WAITING -  Student 4 takes a seat, Total waiting 0
+Tue Nov 18 09:28:24 2025: GETTING HELP -  Student 4 is getting help
+Tue Nov 18 09:28:24 2025: PROGRAMMING -  Student 4 is programming for 1 seconds
+Tue Nov 18 09:28:24 2025: HELPING -  TA 1 is helping Student 4 for 1 seconds
+Tue Nov 18 09:28:24 2025: WAITING -  Student 7 takes a seat, Total waiting 0
+Tue Nov 18 09:28:25 2025: WAITING -  Student 1 takes a seat, Total waiting 1
+Tue Nov 18 09:28:25 2025: WAITING -  Student 4 takes a seat, Total waiting 2
+Tue Nov 18 09:28:25 2025: HELPING -  TA 1 is helping Student 7 for 3 seconds
+Tue Nov 18 09:28:25 2025: GETTING HELP -  Student 4 is getting help
+Tue Nov 18 09:28:25 2025: PROGRAMMING -  Student 4 is programming for 3 seconds
+Tue Nov 18 09:28:26 2025: WAITING -  Student 3 takes a seat, Total waiting 2
+Tue Nov 18 09:28:26 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:26 2025: PROGRAMMING -  Student 6 is programming for 4 seconds
+Tue Nov 18 09:28:26 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:26 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:28:27 2025: NO WAITING ROOM -  Student 5 does not get room, Total waiting 3
+Tue Nov 18 09:28:27 2025: PROGRAMMING -  Student 5 is programming for 5 seconds
+Tue Nov 18 09:28:27 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:27 2025: PROGRAMMING -  Student 9 is programming for 2 seconds
+Tue Nov 18 09:28:27 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:27 2025: PROGRAMMING -  Student 10 is programming for 2 seconds
+Tue Nov 18 09:28:28 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:28 2025: PROGRAMMING -  Student 2 is programming for 2 seconds
+Tue Nov 18 09:28:28 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:28:28 2025: PROGRAMMING -  Student 8 is programming for 1 seconds
+Tue Nov 18 09:28:28 2025: HELPING -  TA 1 is helping Student 1 for 4 seconds
+Tue Nov 18 09:28:28 2025: WAITING -  Student 4 takes a seat, Total waiting 2
+Tue Nov 18 09:28:28 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:28:28 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:28:29 2025: HELPING -  TA 2 is helping Student 4 for 1 seconds
+Tue Nov 18 09:28:29 2025: GETTING HELP -  Student 7 is getting help
+Tue Nov 18 09:28:29 2025: PROGRAMMING -  Student 7 is programming for 4 seconds
+Tue Nov 18 09:28:29 2025: WAITING -  Student 8 takes a seat, Total waiting 2
+Tue Nov 18 09:28:29 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:29 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:28:29 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:29 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:28:30 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:30 2025: PROGRAMMING -  Student 2 is programming for 3 seconds
+Tue Nov 18 09:28:30 2025: HELPING -  TA 2 is helping Student 3 for 2 seconds
+Tue Nov 18 09:28:30 2025: GETTING HELP -  Student 3 is getting help
+Tue Nov 18 09:28:30 2025: PROGRAMMING -  Student 3 is programming for 2 seconds
+Tue Nov 18 09:28:30 2025: WAITING -  Student 6 takes a seat, Total waiting 2
+Tue Nov 18 09:28:30 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:30 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:28:31 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:31 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:28:32 2025: NO WAITING ROOM -  Student 5 does not get room, Total waiting 3
+Tue Nov 18 09:28:32 2025: PROGRAMMING -  Student 5 is programming for 5 seconds
+Tue Nov 18 09:28:32 2025: HELPING -  TA 2 is helping Student 4 for 3 seconds
+Tue Nov 18 09:28:32 2025: GETTING HELP -  Student 4 is getting help
+Tue Nov 18 09:28:32 2025: PROGRAMMING -  Student 4 is programming for 4 seconds
+Tue Nov 18 09:28:32 2025: WAITING -  Student 3 takes a seat, Total waiting 2
+Tue Nov 18 09:28:32 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:32 2025: PROGRAMMING -  Student 9 is programming for 2 seconds
+Tue Nov 18 09:28:32 2025: HELPING -  TA 1 is helping Student 8 for 2 seconds
+Tue Nov 18 09:28:32 2025: GETTING HELP -  Student 8 is getting help
+Tue Nov 18 09:28:32 2025: PROGRAMMING -  Student 8 is programming for 4 seconds
+Tue Nov 18 09:28:32 2025: WAITING -  Student 10 takes a seat, Total waiting 2
+Tue Nov 18 09:28:33 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:33 2025: PROGRAMMING -  Student 7 is programming for 2 seconds
+Tue Nov 18 09:28:33 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:33 2025: PROGRAMMING -  Student 2 is programming for 1 seconds
+Tue Nov 18 09:28:33 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:28:33 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:28:34 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:34 2025: PROGRAMMING -  Student 2 is programming for 2 seconds
+Tue Nov 18 09:28:34 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:34 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:28:34 2025: HELPING -  TA 1 is helping Student 6 for 2 seconds
+Tue Nov 18 09:28:34 2025: GETTING HELP -  Student 6 is getting help
+Tue Nov 18 09:28:34 2025: PROGRAMMING -  Student 6 is programming for 1 seconds
+Tue Nov 18 09:28:35 2025: HELPING -  TA 2 is helping Student 3 for 1 seconds
+Tue Nov 18 09:28:35 2025: WAITING -  Student 7 takes a seat, Total waiting 1
+Tue Nov 18 09:28:35 2025: GETTING HELP -  Student 3 is getting help
+Tue Nov 18 09:28:35 2025: PROGRAMMING -  Student 3 is programming for 3 seconds
+Tue Nov 18 09:28:35 2025: WAITING -  Student 6 takes a seat, Total waiting 2
+Tue Nov 18 09:28:36 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:36 2025: PROGRAMMING -  Student 4 is programming for 5 seconds
+Tue Nov 18 09:28:36 2025: HELPING -  TA 2 is helping Student 10 for 3 seconds
+Tue Nov 18 09:28:36 2025: GETTING HELP -  Student 10 is getting help
+Tue Nov 18 09:28:36 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:28:36 2025: WAITING -  Student 2 takes a seat, Total waiting 2
+Tue Nov 18 09:28:36 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:28:36 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:28:36 2025: HELPING -  TA 1 is helping Student 7 for 5 seconds
+Tue Nov 18 09:28:36 2025: GETTING HELP -  Student 7 is getting help
+Tue Nov 18 09:28:36 2025: PROGRAMMING -  Student 7 is programming for 3 seconds
+Tue Nov 18 09:28:37 2025: WAITING -  Student 5 takes a seat, Total waiting 2
+Tue Nov 18 09:28:37 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:37 2025: PROGRAMMING -  Student 9 is programming for 2 seconds
+Tue Nov 18 09:28:38 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:38 2025: PROGRAMMING -  Student 3 is programming for 5 seconds
+Tue Nov 18 09:28:38 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:28:38 2025: PROGRAMMING -  Student 1 is programming for 3 seconds
+Tue Nov 18 09:28:39 2025: HELPING -  TA 2 is helping Student 6 for 2 seconds
+Tue Nov 18 09:28:39 2025: GETTING HELP -  Student 6 is getting help
+Tue Nov 18 09:28:39 2025: PROGRAMMING -  Student 6 is programming for 5 seconds
+Tue Nov 18 09:28:39 2025: WAITING -  Student 8 takes a seat, Total waiting 2
+Tue Nov 18 09:28:39 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:39 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:28:39 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:39 2025: PROGRAMMING -  Student 7 is programming for 3 seconds
+Tue Nov 18 09:28:40 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:40 2025: PROGRAMMING -  Student 10 is programming for 2 seconds
+Tue Nov 18 09:28:41 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:41 2025: PROGRAMMING -  Student 4 is programming for 3 seconds
+Tue Nov 18 09:28:41 2025: HELPING -  TA 2 is helping Student 2 for 5 seconds
+Tue Nov 18 09:28:41 2025: GETTING HELP -  Student 2 is getting help
+Tue Nov 18 09:28:41 2025: PROGRAMMING -  Student 2 is programming for 3 seconds
+Tue Nov 18 09:28:41 2025: HELPING -  TA 1 is helping Student 5 for 5 seconds
+Tue Nov 18 09:28:41 2025: WAITING -  Student 1 takes a seat, Total waiting 1
+Tue Nov 18 09:28:41 2025: GETTING HELP -  Student 5 is getting help
+Tue Nov 18 09:28:41 2025: PROGRAMMING -  Student 5 is programming for 5 seconds
+Tue Nov 18 09:28:42 2025: WAITING -  Student 10 takes a seat, Total waiting 2
+Tue Nov 18 09:28:42 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:42 2025: PROGRAMMING -  Student 9 is programming for 4 seconds
+Tue Nov 18 09:28:42 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:42 2025: PROGRAMMING -  Student 7 is programming for 3 seconds
+Tue Nov 18 09:28:43 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:43 2025: PROGRAMMING -  Student 3 is programming for 3 seconds
+Tue Nov 18 09:28:44 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:44 2025: PROGRAMMING -  Student 4 is programming for 5 seconds
+Tue Nov 18 09:28:44 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:44 2025: PROGRAMMING -  Student 6 is programming for 3 seconds
+Tue Nov 18 09:28:44 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:44 2025: PROGRAMMING -  Student 2 is programming for 2 seconds
+Tue Nov 18 09:28:45 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:45 2025: PROGRAMMING -  Student 7 is programming for 3 seconds
+Tue Nov 18 09:28:46 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:46 2025: PROGRAMMING -  Student 3 is programming for 4 seconds
+Tue Nov 18 09:28:46 2025: HELPING -  TA 2 is helping Student 8 for 3 seconds
+Tue Nov 18 09:28:46 2025: GETTING HELP -  Student 8 is getting help
+Tue Nov 18 09:28:46 2025: WAITING -  Student 5 takes a seat, Total waiting 2
+Tue Nov 18 09:28:46 2025: GETTING HELP -  Student 5 is getting help
+Tue Nov 18 09:28:46 2025: PROGRAMMING -  Student 5 is programming for 3 seconds
+Tue Nov 18 09:28:46 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:46 2025: PROGRAMMING -  Student 2 is programming for 5 seconds
+Tue Nov 18 09:28:46 2025: WAITING -  Student 9 takes a seat, Total waiting 2
+Tue Nov 18 09:28:46 2025: HELPING -  TA 1 is helping Student 1 for 3 seconds
+Tue Nov 18 09:28:46 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:28:47 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:47 2025: PROGRAMMING -  Student 6 is programming for 2 seconds
+Tue Nov 18 09:28:48 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:48 2025: PROGRAMMING -  Student 7 is programming for 1 seconds
+Tue Nov 18 09:28:49 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:49 2025: PROGRAMMING -  Student 4 is programming for 2 seconds
+Tue Nov 18 09:28:49 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:49 2025: PROGRAMMING -  Student 6 is programming for 1 seconds
+Tue Nov 18 09:28:49 2025: HELPING -  TA 2 is helping Student 10 for 5 seconds
+Tue Nov 18 09:28:49 2025: WAITING -  Student 5 takes a seat, Total waiting 2
+Tue Nov 18 09:28:49 2025: GETTING HELP -  Student 5 is getting help
+Tue Nov 18 09:28:49 2025: PROGRAMMING -  Student 5 is programming for 1 seconds
+Tue Nov 18 09:28:49 2025: HELPING -  TA 1 is helping Student 5 for 3 seconds
+Tue Nov 18 09:28:49 2025: WAITING -  Student 8 takes a seat, Total waiting 2
+Tue Nov 18 09:28:49 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:28:49 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:49 2025: PROGRAMMING -  Student 7 is programming for 4 seconds
+Tue Nov 18 09:28:49 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:28:50 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:50 2025: PROGRAMMING -  Student 3 is programming for 2 seconds
+Tue Nov 18 09:28:50 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:50 2025: PROGRAMMING -  Student 6 is programming for 2 seconds
+Tue Nov 18 09:28:50 2025: NO WAITING ROOM -  Student 5 does not get room, Total waiting 3
+Tue Nov 18 09:28:50 2025: PROGRAMMING -  Student 5 is programming for 1 seconds
+Tue Nov 18 09:28:51 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:51 2025: PROGRAMMING -  Student 4 is programming for 5 seconds
+Tue Nov 18 09:28:51 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:51 2025: PROGRAMMING -  Student 2 is programming for 4 seconds
+Tue Nov 18 09:28:51 2025: NO WAITING ROOM -  Student 5 does not get room, Total waiting 3
+Tue Nov 18 09:28:51 2025: PROGRAMMING -  Student 5 is programming for 2 seconds
+Tue Nov 18 09:28:52 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:52 2025: PROGRAMMING -  Student 3 is programming for 4 seconds
+Tue Nov 18 09:28:52 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:28:52 2025: PROGRAMMING -  Student 6 is programming for 5 seconds
+Tue Nov 18 09:28:52 2025: HELPING -  TA 1 is helping Student 9 for 4 seconds
+Tue Nov 18 09:28:52 2025: GETTING HELP -  Student 9 is getting help
+Tue Nov 18 09:28:52 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:28:53 2025: WAITING -  Student 5 takes a seat, Total waiting 2
+Tue Nov 18 09:28:53 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:28:53 2025: PROGRAMMING -  Student 7 is programming for 4 seconds
+Tue Nov 18 09:28:54 2025: HELPING -  TA 2 is helping Student 5 for 3 seconds
+Tue Nov 18 09:28:54 2025: GETTING HELP -  Student 10 is getting help
+Tue Nov 18 09:28:54 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:28:54 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:28:55 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:55 2025: PROGRAMMING -  Student 2 is programming for 3 seconds
+Tue Nov 18 09:28:55 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:28:55 2025: PROGRAMMING -  Student 9 is programming for 5 seconds
+Tue Nov 18 09:28:56 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:56 2025: PROGRAMMING -  Student 4 is programming for 2 seconds
+Tue Nov 18 09:28:56 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:28:56 2025: PROGRAMMING -  Student 3 is programming for 5 seconds
+Tue Nov 18 09:28:56 2025: HELPING -  TA 1 is helping Student 8 for 5 seconds
+Tue Nov 18 09:28:56 2025: GETTING HELP -  Student 8 is getting help
+Tue Nov 18 09:28:56 2025: PROGRAMMING -  Student 8 is programming for 4 seconds
+Tue Nov 18 09:28:57 2025: WAITING -  Student 6 takes a seat, Total waiting 2
+Tue Nov 18 09:28:57 2025: GETTING HELP -  Student 6 is getting help
+Tue Nov 18 09:28:57 2025: PROGRAMMING -  Student 6 is programming for 4 seconds
+Tue Nov 18 09:28:57 2025: HELPING -  TA 2 is helping Student 5 for 5 seconds
+Tue Nov 18 09:28:57 2025: WAITING -  Student 7 takes a seat, Total waiting 2
+Tue Nov 18 09:28:58 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:28:58 2025: PROGRAMMING -  Student 4 is programming for 3 seconds
+Tue Nov 18 09:28:58 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:58 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:28:58 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:28:58 2025: PROGRAMMING -  Student 2 is programming for 4 seconds
+Tue Nov 18 09:28:59 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:28:59 2025: PROGRAMMING -  Student 10 is programming for 2 seconds
+Tue Nov 18 09:29:00 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:00 2025: PROGRAMMING -  Student 9 is programming for 4 seconds
+Tue Nov 18 09:29:00 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:00 2025: PROGRAMMING -  Student 8 is programming for 1 seconds
+Tue Nov 18 09:29:01 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:29:01 2025: PROGRAMMING -  Student 4 is programming for 2 seconds
+Tue Nov 18 09:29:01 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:29:01 2025: PROGRAMMING -  Student 3 is programming for 1 seconds
+Tue Nov 18 09:29:01 2025: NO WAITING ROOM -  Student 6 does not get room, Total waiting 3
+Tue Nov 18 09:29:01 2025: PROGRAMMING -  Student 6 is programming for 5 seconds
+Tue Nov 18 09:29:01 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:01 2025: PROGRAMMING -  Student 10 is programming for 5 seconds
+Tue Nov 18 09:29:01 2025: HELPING -  TA 1 is helping Student 1 for 4 seconds
+Tue Nov 18 09:29:01 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:29:01 2025: PROGRAMMING -  Student 1 is programming for 3 seconds
+Tue Nov 18 09:29:01 2025: WAITING -  Student 8 takes a seat, Total waiting 2
+Tue Nov 18 09:29:02 2025: HELPING -  TA 2 is helping Student 6 for 2 seconds
+Tue Nov 18 09:29:02 2025: GETTING HELP -  Student 5 is getting help
+Tue Nov 18 09:29:02 2025: WAITING -  Student 2 takes a seat, Total waiting 2
+Tue Nov 18 09:29:02 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:29:02 2025: PROGRAMMING -  Student 3 is programming for 1 seconds
+Tue Nov 18 09:29:03 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:29:03 2025: PROGRAMMING -  Student 4 is programming for 3 seconds
+Tue Nov 18 09:29:03 2025: NO WAITING ROOM -  Student 3 does not get room, Total waiting 3
+Tue Nov 18 09:29:03 2025: PROGRAMMING -  Student 3 is programming for 5 seconds
+Tue Nov 18 09:29:04 2025: HELPING -  TA 2 is helping Student 7 for 4 seconds
+Tue Nov 18 09:29:04 2025: GETTING HELP -  Student 7 is getting help
+Tue Nov 18 09:29:04 2025: PROGRAMMING -  Student 7 is programming for 4 seconds
+Tue Nov 18 09:29:04 2025: WAITING -  Student 9 takes a seat, Total waiting 2
+Tue Nov 18 09:29:04 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:29:04 2025: PROGRAMMING -  Student 1 is programming for 3 seconds
+Tue Nov 18 09:29:05 2025: HELPING -  TA 1 is helping Student 8 for 3 seconds
+Tue Nov 18 09:29:05 2025: GETTING HELP -  Student 8 is getting help
+Tue Nov 18 09:29:05 2025: PROGRAMMING -  Student 8 is programming for 2 seconds
+Tue Nov 18 09:29:06 2025: WAITING -  Student 6 takes a seat, Total waiting 2
+Tue Nov 18 09:29:06 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:06 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:29:06 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:29:06 2025: PROGRAMMING -  Student 4 is programming for 2 seconds
+Tue Nov 18 09:29:07 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:07 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:29:07 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:29:07 2025: PROGRAMMING -  Student 1 is programming for 2 seconds
+Tue Nov 18 09:29:07 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:07 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:29:08 2025: HELPING -  TA 2 is helping Student 2 for 1 seconds
+Tue Nov 18 09:29:08 2025: GETTING HELP -  Student 2 is getting help
+Tue Nov 18 09:29:08 2025: PROGRAMMING -  Student 2 is programming for 3 seconds
+Tue Nov 18 09:29:08 2025: WAITING -  Student 7 takes a seat, Total waiting 2
+Tue Nov 18 09:29:08 2025: GETTING HELP -  Student 7 is getting help
+Tue Nov 18 09:29:08 2025: HELPING -  TA 1 is helping Student 9 for 1 seconds
+Tue Nov 18 09:29:08 2025: PROGRAMMING -  Student 7 is programming for 2 seconds
+Tue Nov 18 09:29:08 2025: WAITING -  Student 3 takes a seat, Total waiting 2
+Tue Nov 18 09:29:08 2025: NO WAITING ROOM -  Student 4 does not get room, Total waiting 3
+Tue Nov 18 09:29:08 2025: PROGRAMMING -  Student 4 is programming for 1 seconds
+Tue Nov 18 09:29:09 2025: HELPING -  TA 2 is helping Student 6 for 4 seconds
+Tue Nov 18 09:29:09 2025: GETTING HELP -  Student 6 is getting help
+Tue Nov 18 09:29:09 2025: PROGRAMMING -  Student 6 is programming for 4 seconds
+Tue Nov 18 09:29:09 2025: HELPING -  TA 1 is helping Student 7 for 1 seconds
+Tue Nov 18 09:29:09 2025: WAITING -  Student 1 takes a seat, Total waiting 1
+Tue Nov 18 09:29:09 2025: GETTING HELP -  Student 9 is getting help
+Tue Nov 18 09:29:09 2025: PROGRAMMING -  Student 9 is programming for 2 seconds
+Tue Nov 18 09:29:09 2025: WAITING -  Student 4 takes a seat, Total waiting 2
+Tue Nov 18 09:29:10 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:29:10 2025: PROGRAMMING -  Student 7 is programming for 2 seconds
+Tue Nov 18 09:29:10 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:10 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:29:10 2025: HELPING -  TA 1 is helping Student 3 for 3 seconds
+Tue Nov 18 09:29:10 2025: GETTING HELP -  Student 3 is getting help
+Tue Nov 18 09:29:10 2025: PROGRAMMING -  Student 3 is programming for 4 seconds
+Tue Nov 18 09:29:11 2025: WAITING -  Student 2 takes a seat, Total waiting 2
+Tue Nov 18 09:29:11 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:11 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:29:11 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:11 2025: PROGRAMMING -  Student 9 is programming for 4 seconds
+Tue Nov 18 09:29:12 2025: NO WAITING ROOM -  Student 7 does not get room, Total waiting 3
+Tue Nov 18 09:29:12 2025: PROGRAMMING -  Student 7 is programming for 5 seconds
+Tue Nov 18 09:29:13 2025: HELPING -  TA 2 is helping Student 1 for 1 seconds
+Tue Nov 18 09:29:13 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:29:13 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:29:13 2025: WAITING -  Student 6 takes a seat, Total waiting 2
+Tue Nov 18 09:29:13 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:13 2025: PROGRAMMING -  Student 8 is programming for 5 seconds
+Tue Nov 18 09:29:13 2025: HELPING -  TA 1 is helping Student 4 for 3 seconds
+Tue Nov 18 09:29:13 2025: GETTING HELP -  Student 4 is getting help
+Tue Nov 18 09:29:13 2025: PROGRAMMING -  Student 4 is programming for 1 seconds
+Tue Nov 18 09:29:14 2025: HELPING -  TA 2 is helping Student 2 for 5 seconds
+Tue Nov 18 09:29:14 2025: GETTING HELP -  Student 2 is getting help
+Tue Nov 18 09:29:14 2025: PROGRAMMING -  Student 2 is programming for 1 seconds
+Tue Nov 18 09:29:14 2025: WAITING -  Student 3 takes a seat, Total waiting 1
+Tue Nov 18 09:29:14 2025: WAITING -  Student 4 takes a seat, Total waiting 2
+Tue Nov 18 09:29:15 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:15 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:29:15 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:29:15 2025: PROGRAMMING -  Student 2 is programming for 3 seconds
+Tue Nov 18 09:29:15 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:15 2025: PROGRAMMING -  Student 9 is programming for 2 seconds
+Tue Nov 18 09:29:16 2025: HELPING -  TA 1 is helping Student 6 for 1 seconds
+Tue Nov 18 09:29:16 2025: GETTING HELP -  Student 6 is getting help
+Tue Nov 18 09:29:17 2025: WAITING -  Student 7 takes a seat, Total waiting 2
+Tue Nov 18 09:29:17 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:17 2025: PROGRAMMING -  Student 9 is programming for 4 seconds
+Tue Nov 18 09:29:17 2025: HELPING -  TA 1 is helping Student 3 for 3 seconds
+Tue Nov 18 09:29:17 2025: GETTING HELP -  Student 3 is getting help
+Tue Nov 18 09:29:17 2025: PROGRAMMING -  Student 3 is programming for 4 seconds
+Tue Nov 18 09:29:18 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:29:18 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:18 2025: PROGRAMMING -  Student 8 is programming for 1 seconds
+Tue Nov 18 09:29:18 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:29:18 2025: PROGRAMMING -  Student 2 is programming for 5 seconds
+Tue Nov 18 09:29:19 2025: HELPING -  TA 2 is helping Student 4 for 1 seconds
+Tue Nov 18 09:29:19 2025: GETTING HELP -  Student 4 is getting help
+Tue Nov 18 09:29:19 2025: WAITING -  Student 10 takes a seat, Total waiting 2
+Tue Nov 18 09:29:19 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:19 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:29:20 2025: HELPING -  TA 2 is helping Student 7 for 3 seconds
+Tue Nov 18 09:29:20 2025: GETTING HELP -  Student 7 is getting help
+Tue Nov 18 09:29:20 2025: HELPING -  TA 1 is helping Student 1 for 3 seconds
+Tue Nov 18 09:29:20 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:29:21 2025: WAITING -  Student 9 takes a seat, Total waiting 1
+Tue Nov 18 09:29:21 2025: WAITING -  Student 3 takes a seat, Total waiting 2
+Tue Nov 18 09:29:22 2025: NO WAITING ROOM -  Student 8 does not get room, Total waiting 3
+Tue Nov 18 09:29:22 2025: PROGRAMMING -  Student 8 is programming for 3 seconds
+Tue Nov 18 09:29:23 2025: NO WAITING ROOM -  Student 2 does not get room, Total waiting 3
+Tue Nov 18 09:29:23 2025: PROGRAMMING -  Student 2 is programming for 1 seconds
+Tue Nov 18 09:29:23 2025: HELPING -  TA 2 is helping Student 10 for 5 seconds
+Tue Nov 18 09:29:23 2025: GETTING HELP -  Student 10 is getting help
+Tue Nov 18 09:29:23 2025: PROGRAMMING -  Student 10 is programming for 4 seconds
+Tue Nov 18 09:29:23 2025: HELPING -  TA 1 is helping Student 9 for 5 seconds
+Tue Nov 18 09:29:23 2025: GETTING HELP -  Student 9 is getting help
+Tue Nov 18 09:29:23 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:29:24 2025: WAITING -  Student 2 takes a seat, Total waiting 1
+Tue Nov 18 09:29:25 2025: WAITING -  Student 8 takes a seat, Total waiting 2
+Tue Nov 18 09:29:26 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:26 2025: PROGRAMMING -  Student 9 is programming for 1 seconds
+Tue Nov 18 09:29:27 2025: NO WAITING ROOM -  Student 10 does not get room, Total waiting 3
+Tue Nov 18 09:29:27 2025: PROGRAMMING -  Student 10 is programming for 3 seconds
+Tue Nov 18 09:29:27 2025: NO WAITING ROOM -  Student 9 does not get room, Total waiting 3
+Tue Nov 18 09:29:27 2025: PROGRAMMING -  Student 9 is programming for 3 seconds
+Tue Nov 18 09:29:28 2025: HELPING -  TA 2 is helping Student 3 for 4 seconds
+Tue Nov 18 09:29:28 2025: GETTING HELP -  Student 3 is getting help
+Tue Nov 18 09:29:28 2025: HELPING -  TA 1 is helping Student 2 for 2 seconds
+Tue Nov 18 09:29:28 2025: GETTING HELP -  Student 2 is getting help
+Tue Nov 18 09:29:28 2025: PROGRAMMING -  Student 2 is programming for 4 seconds
+Tue Nov 18 09:29:30 2025: WAITING -  Student 10 takes a seat, Total waiting 1
+Tue Nov 18 09:29:30 2025: HELPING -  TA 1 is helping Student 8 for 5 seconds
+Tue Nov 18 09:29:30 2025: GETTING HELP -  Student 8 is getting help
+Tue Nov 18 09:29:30 2025: WAITING -  Student 9 takes a seat, Total waiting 1
+Tue Nov 18 09:29:32 2025: HELPING -  TA 2 is helping Student 10 for 3 seconds
+Tue Nov 18 09:29:32 2025: GETTING HELP -  Student 10 is getting help
+Tue Nov 18 09:29:32 2025: PROGRAMMING -  Student 10 is programming for 1 seconds
+Tue Nov 18 09:29:32 2025: WAITING -  Student 2 takes a seat, Total waiting 1
+Tue Nov 18 09:29:33 2025: WAITING -  Student 10 takes a seat, Total waiting 2
+Tue Nov 18 09:29:35 2025: HELPING -  TA 2 is helping Student 9 for 1 seconds
+Tue Nov 18 09:29:35 2025: GETTING HELP -  Student 9 is getting help
+Tue Nov 18 09:29:35 2025: PROGRAMMING -  Student 9 is programming for 5 seconds
+Tue Nov 18 09:29:35 2025: HELPING -  TA 1 is helping Student 2 for 4 seconds
+Tue Nov 18 09:29:35 2025: GETTING HELP -  Student 2 is getting help
+Tue Nov 18 09:29:36 2025: HELPING -  TA 2 is helping Student 10 for 1 seconds
+Tue Nov 18 09:29:36 2025: GETTING HELP -  Student 10 is getting help
+Tue Nov 18 09:29:40 2025: WAITING -  Student 9 takes a seat, Total waiting 0
+Tue Nov 18 09:29:40 2025: GETTING HELP -  Student 9 is getting help
+Tue Nov 18 09:29:40 2025: HELPING -  TA 2 is helping Student 9 for 2 seconds

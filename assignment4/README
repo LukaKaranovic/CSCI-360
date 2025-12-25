@@ -1,0 +1,73 @@
+# CSCI 360 Assignment 4 - Virtual Memory Manager
+
+This application creates a virtual memory manager that translates virtual addresses into physical addresses and accesses the values at those physical addresses. It uses a page table, translation look-aside buffer (TLB), and backing store. The virtual address space is four time bigger than the physical address space, meaning page swapping is frequent. FIFO page replacement and TLB entry replacement algorithms are used.
+
+### Specifications:
+
+"This assignment is about developing an application that translates logical (virtual) addresses into physical addresses for a virtual address space of size 2^16 = 65,536 bytes. Your application will read 16-bit logical addresses from a file.  Will translate each logical address into its corresponding physical address using a Translation Look-aside Buffer (TLB) and a Page Table. Your application will then output the value of the byte stored at the physical address. The goal behind this assignment is to simulate the steps that involved in translating logical to physical addresses in a Memory Management Unit (MMU) of an Operating System. You will use a smaller (16,384 bytes) physical memory space and a larger (65,536 bytes) virtual memory address space."
+
+- Size of virtual memory, 2^16 = 65,536 bytes (256 pages × 256-byte frame size).
+- Size of physical memory, 2^14 = 16,384 bytes (64 frames × 256-byte frame size). 
+- Page size, 2^8 = 256 bytes.
+- Frame size, 2^8 = 256 bytes.
+- The number of entries in the TLB is 16.
+- The number of entries in Page-table is 28 = 256. 
+
+### Goals:
+
+- Learn how virtual memory management works
+- Learn how demand paging can be implemented using a page table and a backing store.
+- Learn how page searching is expedited using translation look-aside buffer (TLB).
+- Learn how page replacement strategies work (FIFO is used in this application).
+- Implement a virtual memory manager (VMM) in C.
+
+## Technologies
+
+This application has been developed using the C programming language. This application can be built and run on a system with a GCC compiler. Unix make utility is necessary to build as well as recommended to run the application. 
+
+This application has been tested on Debian 12 (Linux) with GCC 12.2.0.
+
+## Build and Installation
+
+To build this application from the source code enter following command from the root directory of this application.
+
+	>make
+
+To clean the files from the previous build of the application enter following command from the root directory of the application.
+
+	>make clean
+
+There is no installation script to install this application automatically. However, you can manually install this application by copying the executable file (any of the sort files) from the 'bin' subdirectory of this application to a system directory, for example, '/usr/local/bin', that is listed in the '$PATH' environment variable of your system. You need system privileges in order to copy the executable into your target directory.
+
+## Usage
+
+You can run the application using the input file ('resource/inputs/addresses.txt') and get the results displayed on the terminal by running the following command:
+
+- This file has 1000 virtual addresses.
+
+	>make run
+
+You can run the application using the input file ('resource/inputs/large_addresses.txt') and get the results displayed on the terminal by running the following command:
+
+- This file has 10000 virtual addresses.
+
+	>make run-large
+
+You can run the application using the input files (located in 'resource/inputs/' directory) and get detailed results (located in 'resource/outputs/' directory) by running the following command:
+
+    >./test.sh
+
+## Contributors
+
+Developer: Luka Karanovic, 665778833, CSCI 360, VIU.
+- All source files and documentation.
+Specification: Dr. Humayun Kabir, Instructor, CSCI 360, Fall 2025, VIU.
+- All header files, assignment specifications, and skeletal design of application.
+
+## License
+
+This is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this software. If not, see <https://www.gnu.org/licenses/>. Terms and conditions or the types of licenses granted to use this application go here.

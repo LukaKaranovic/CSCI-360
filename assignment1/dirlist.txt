@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 9 karanovl karanovl 4096 Oct  1 10:32 .
+drwxr-xr-x 3 karanovl karanovl 4096 Sep  9 09:03 ..
+drwxr-xr-x 2 karanovl karanovl 4096 Oct  1 10:31 bin
+drwxr-xr-x 2 karanovl karanovl 4096 Oct  1 10:31 build
+-rw------- 1 karanovl karanovl    0 Oct  1 10:32 dirlist.txt
+drwxr-xr-x 3 karanovl karanovl 4096 Sep  9 09:03 example
+drwxr-xr-x 8 karanovl karanovl 4096 Sep 26 18:08 .git
+-rw-r--r-- 1 karanovl karanovl   40 Sep  9 09:03 .gitignore
+drwxr-xr-x 2 karanovl karanovl 4096 Sep  9 09:03 include
+-rw-r--r-- 1 karanovl karanovl  860 Sep  9 09:03 Makefile
+-rw-r--r-- 1 karanovl karanovl 2475 Sep 21 21:40 README
+drwxr-xr-x 2 karanovl karanovl 4096 Sep  9 09:03 resource
+drwxr-xr-x 2 karanovl karanovl 4096 Sep  9 09:03 src

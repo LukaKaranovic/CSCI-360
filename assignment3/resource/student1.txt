@@ -1,0 +1,28 @@
+Tue Nov 18 09:04:23 2025: PROGRAMMING -  Student 1 is programming for 4 seconds
+Tue Nov 18 09:04:27 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:04:28 2025: HELPING -  TA 1 is helping Student 1 for 3 seconds
+Tue Nov 18 09:04:28 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:04:28 2025: PROGRAMMING -  Student 1 is programming for 1 seconds
+Tue Nov 18 09:04:29 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:04:29 2025: PROGRAMMING -  Student 1 is programming for 1 seconds
+Tue Nov 18 09:04:30 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:04:30 2025: PROGRAMMING -  Student 1 is programming for 1 seconds
+Tue Nov 18 09:04:31 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:04:31 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:04:36 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:04:40 2025: HELPING -  TA 1 is helping Student 1 for 1 seconds
+Tue Nov 18 09:04:40 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:04:40 2025: PROGRAMMING -  Student 1 is programming for 2 seconds
+Tue Nov 18 09:04:42 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:04:46 2025: HELPING -  TA 1 is helping Student 1 for 4 seconds
+Tue Nov 18 09:04:46 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:04:46 2025: PROGRAMMING -  Student 1 is programming for 5 seconds
+Tue Nov 18 09:04:51 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:04:56 2025: HELPING -  TA 2 is helping Student 1 for 4 seconds
+Tue Nov 18 09:04:56 2025: GETTING HELP -  Student 1 is getting help
+Tue Nov 18 09:04:56 2025: PROGRAMMING -  Student 1 is programming for 2 seconds
+Tue Nov 18 09:04:58 2025: NO WAITING ROOM -  Student 1 does not get room, Total waiting 3
+Tue Nov 18 09:04:58 2025: PROGRAMMING -  Student 1 is programming for 2 seconds
+Tue Nov 18 09:05:00 2025: WAITING -  Student 1 takes a seat, Total waiting 2
+Tue Nov 18 09:05:03 2025: HELPING -  TA 1 is helping Student 1 for 2 seconds
+Tue Nov 18 09:05:03 2025: GETTING HELP -  Student 1 is getting help
